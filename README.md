@@ -1,2 +1,2 @@
 # Projetos-Alura
-Nesse repositório possui projetos que foram feitos dos cursos da Alura.
+O material contido neste repositório é o resultado dos meus estudos nos cursos de tecnologia oferecidos pela Alura.
